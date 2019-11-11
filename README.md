@@ -1,0 +1,2 @@
+# styler-firefox
+Styler Extension
